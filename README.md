@@ -120,7 +120,7 @@ Bandwidth/storage unit converter. RSC, accessibility-first ARIA + semantic HTML.
 <sub>Self-hosted on Cloudflare Workers — <a href="https://github.com/krabhi4/github-readme-stats/tree/cloudflare-workers">krabhi4/github-readme-stats</a></sub>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.krabhi4.workers.dev/api?username=krabhi4&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&icon_color=2f81f7&v=2" alt="stats"/>
+  <img height="160" src="https://github-readme-stats.krabhi4.workers.dev/api?username=krabhi4&show_icons=true&hide_border=true&theme=transparent&icon_color=2f81f7&v=3" alt="stats"/>
   <img height="160" src="https://github-readme-stats.krabhi4.workers.dev/api/top-langs?username=krabhi4&layout=compact&hide_border=true&theme=transparent&langs_count=8&v=2" alt="top langs"/>
 </p>
 
