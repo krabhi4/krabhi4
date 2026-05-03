@@ -121,7 +121,7 @@ Bandwidth/storage unit converter. RSC, accessibility-first ARIA + semantic HTML.
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.krabhi4.workers.dev/api?username=krabhi4&show_icons=true&hide_border=true&theme=transparent&icon_color=2f81f7&v=3" alt="stats"/>
-  <img height="160" src="https://github-readme-stats.krabhi4.workers.dev/api/top-langs?username=krabhi4&layout=compact&hide_border=true&theme=transparent&langs_count=8&v=2" alt="top langs"/>
+  <img height="160" src="https://github-readme-stats.krabhi4.workers.dev/api/top-langs?username=krabhi4&layout=compact&hide_border=true&theme=transparent&langs_count=8&v=3" alt="top langs"/>
 </p>
 
 ---
