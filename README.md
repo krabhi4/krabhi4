@@ -105,15 +105,23 @@ Bandwidth/storage unit converter. RSC, accessibility-first ARIA + semantic HTML.
 
 ---
 
+### By the numbers
+
+<table>
+<tr>
+<td align="center"><b>~1,290</b><br/><sub>Docker pulls<br/>across GHCR</sub></td>
+<td align="center"><b>12</b><br/><sub>multi-arch<br/>containers</sub></td>
+<td align="center"><b>3 yrs</b><br/><sub>remote<br/>full-stack</sub></td>
+</tr>
+</table>
+
 ### Stats
 
+<sub>Self-hosted on Cloudflare Workers — <a href="https://github.com/krabhi4/github-readme-stats/tree/cloudflare-workers">krabhi4/github-readme-stats</a></sub>
+
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=krabhi4&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&icon_color=2f81f7" alt="stats"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krabhi4&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="top langs"/>
-  </a>
+  <img height="160" src="https://github-readme-stats.krabhi4.workers.dev/api?username=krabhi4&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&icon_color=2f81f7" alt="stats"/>
+  <img height="160" src="https://github-readme-stats.krabhi4.workers.dev/api/top-langs?username=krabhi4&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="top langs"/>
 </p>
 
 ---
