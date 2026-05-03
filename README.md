@@ -62,7 +62,7 @@ ships:    e-commerce · multi-tenant SaaS · headless CMS · CLI tools
 <tr>
 <td width="50%">
 
-**[dload](https://github.com/krabhi4/dload)** &nbsp; <sub>Rust · Axum · librqbit</sub><br/>
+**[dload](https://github.com/users/krabhi4/packages/container/package/dload)** &nbsp; <sub>Rust · Axum · librqbit · `ghcr.io`</sub><br/>
 Memory-efficient HTTP + BitTorrent download manager. Streams chunks to disk — runs in **20–50 MB RAM** vs aria2's 100–500 MB. REST API + web UI.
 
 </td>
@@ -76,7 +76,7 @@ Context-aware homelab dashboard. Rewrites every service URL based on `window.loc
 <tr>
 <td width="50%">
 
-**[tagstudio](https://github.com/krabhi4/tagstudio)** &nbsp; <sub>Rust</sub><br/>
+**[tagstudio](https://github.com/users/krabhi4/packages/container/package/tagstudio)** &nbsp; <sub>Rust · `ghcr.io`</sub><br/>
 Self-hosted Mp3tag-style web app. Batch-edits MP3/FLAC/M4A/OGG/WAV tags with MusicBrainz lookup, cover art, virtualized grid. Single container, no DB.
 
 </td>
@@ -116,8 +116,6 @@ Bandwidth/storage unit converter. RSC, accessibility-first ARIA + semantic HTML.
 </table>
 
 ### Stats
-
-<sub>Self-hosted on Cloudflare Workers — <a href="https://github.com/krabhi4/github-readme-stats/tree/cloudflare-workers">krabhi4/github-readme-stats</a></sub>
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.krabhi4.workers.dev/api?username=krabhi4&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&icon_color=2f81f7&v=4" alt="stats"/>
