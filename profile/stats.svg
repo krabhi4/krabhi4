@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Kumar Abhishek&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 7, Total Commits  : 5522, Total PRs: 847, Total Issues: 111, Contributed to (last year): 23</desc>
+        <desc id="descId">Total Stars Earned: 7, Total Commits  : 5820, Total PRs: 1010, Total Issues: 111, Contributed to (last year): 23</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.3271811240737;
+        stroke-dashoffset: 89.156611349325;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >5.5k</text>
+      >5.8k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >847</text>
+      >1k</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
